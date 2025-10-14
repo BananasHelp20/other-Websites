@@ -1,6 +1,9 @@
 # other-Websites
 Das sind andere Websites, die ich designed habe. Ich habe ja nicht nur Websites für mein APWD gemacht.
 
+Hinweis: Askö Website muss mit node ausgeführt werden (im Verzeichniss public2: node serverJS/serverDatabase.js)
+und fs, express, und path müssen denke ich mit npm installiert werden.
+
 
 Ich habe schon einmal eine Website mit Wordpress gemacht, aber finde es irgendwie cooler, die Website selbst zu machen, und die komplette Freiheit zu haben, wie man die Website designed. ChatGPT habe ich noch nie für eine Website verwendet, außer für kompliziertes JavaScript, bei denen man APIs verwendet. 
 Ich habe bisher in der Schule noch nichts mit APIs gelernt, und daher meist auf ChatGPT zugegriffen, dadurch habe ich das Prinzip zwar verstanden, aber die genaue Funktionsweise der einzelnen APIs ist mir bis heute fremd. Bei der Website, welche ich fürs APWD gemacht habe, bin ich Monate lang an der Schnittstelle zwischen Website und ESP32 gescheitert, und muss zugeben, das da immer noch nicht ganz durchblicke, jetzt ist mir klar, das es am Besten wäre, das ganze irgendwie mit NodeJS zu machen, und das ganze vielleicht auf meinen Raspi zu schreiben, aber das habe ich mir noch nicht angesehen. 
